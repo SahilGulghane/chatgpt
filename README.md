@@ -8,7 +8,7 @@ Required module to install (requirments)
 
 
 Python 2.6, 2.7, or 3.3+ (required)
-
+Speechrecognition
 PyAudio 0.2.11+ (required only if you need to use microphone input, Microphone)
 
 PocketSphinx (required only if you need to use the Sphinx recognizer, recognizer_instance.recognize_sphinx)
