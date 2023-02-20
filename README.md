@@ -20,3 +20,7 @@ FLAC encoder (required only if the system is not x86-based Windows/Linux/OS X)
 Vosk (required only if you need to use Vosk API speech recognition recognizer_instance.recognize_vosk)
 
 Whisper (required only if you need to use Whisper recognizer_instance.recognize_whisper)
+
+gTTS   (Customizable speech-specific sentence tokenizer that allows for unlimited lengths of text to be read, all while keeping proper intonation, abbreviations, )
+openai 
+os
